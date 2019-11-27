@@ -46,4 +46,4 @@ dependencies {
 
 ```
 
-4. Give you app or module write access permission to external storage; If the permission doesn't exist exception will occur when easyFileManager is being instantiated; Declare the permission in manifest and ask for it on runtime if the target api level is above or equal 23;
+4. Give you app or module write access permission to external storage; If the permission doesn't exist exception will occur when easyFileManager is being instantiated; Declare the permission in manifest and ask for it on runtime if the target api level is above at equal 23;
