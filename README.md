@@ -1,6 +1,17 @@
 # easyFileManager
 Android FileManager that can easily be integerated with your application's activity as a fragment;
 
+## Features
+Add filters to include only certain file and folder extentions
+
+Add filters to exclude certain file and folder extentions
+
+Basic file managment operations like copy, cut, delete, new folder
+
+Add new operations to options bar or override the existing file managment operations
+
+Add custom icons for certain file extentions
+
 ## Download
 source:
 
