@@ -19,11 +19,11 @@ aar library file:
 
 ## Setup
 
-1.download the easyfilemanager.aar file
+1. Download the easyfilemanager.aar file
 
-2.put the easyFileManager.aar file inside the lib directory of your project
+2. Put the easyFileManager.aar file inside the lib directory of your project
 
-3.configure you module's "build.gradle" to include the library file and its dependencies like below:
+3. Configure you module's "build.gradle" to include the library file and its dependencies like below:
 
 ```
 
@@ -46,4 +46,4 @@ dependencies {
 
 ```
 
-4.easyFileManager needs Write access permission to external storage; If the permission doesn't exist exception will occur when easyFileManager is being instantiated; Declare the permission in manifest and ask for it on runtime if the target api level is above or equal 23;
+4. Give you app or module write access permission to external storage; If the permission doesn't exist exception will occur when easyFileManager is being instantiated; Declare the permission in manifest and ask for it on runtime if the target api level is above or equal 23;
