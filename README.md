@@ -36,7 +36,7 @@ allprojects {
 }
 dependencies {
 //feel free to update these to the latest versions
-    implementation (name:'easyFileManager',ext:'aar')
+    implementation (name:'easyFileManager_Library',ext:'aar')
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'androidx.appcompat:appcompat:1.1.0'
     implementation 'androidx.recyclerview:recyclerview:1.0.0'
