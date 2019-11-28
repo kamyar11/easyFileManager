@@ -19,7 +19,7 @@ aar library file:
 
 ## Setup
 
-1. Download the easyfilemanager.aar file
+1. Download the easyFileManager.aar file
 
 2. Put the easyFileManager.aar file inside the lib directory of your project
 
@@ -37,7 +37,7 @@ allprojects {
 }
 dependencies {
 //feel free to update these to the latest versions
-    implementation (name:'easyfilemanager',ext:'aar')
+    implementation (name:'easyFileManager',ext:'aar')
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'androidx.appcompat:appcompat:1.1.0'
     implementation 'androidx.recyclerview:recyclerview:1.0.0'
