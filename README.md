@@ -13,9 +13,8 @@ Add new operations to options bar or override the existing file managment operat
 Add custom icons for certain file extentions
 
 ## Download
-source:
 
-aar library file:
+aar library file: https://github.com/kamyar11/easyFileManager/raw/v1.0/easyFileManager_Library.aar
 
 ## Setup
 
